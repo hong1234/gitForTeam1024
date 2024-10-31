@@ -1,0 +1,2 @@
+// PayPal class by dev-1
+// SKasse class by dev-2

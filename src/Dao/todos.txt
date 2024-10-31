@@ -1,3 +1,2 @@
-// dev-1 : Dao11.php
-// dev-2 : Dao21.php
+// UserDao class by dev-1
 // death-line: 31-10-24

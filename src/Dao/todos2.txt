@@ -1,0 +1,2 @@
+// BaseDao class by dev-1
+// death-line: 01-11-24

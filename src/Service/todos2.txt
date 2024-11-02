@@ -1,2 +1,0 @@
-// BaseService class by dev-2
-// death-line: 01-11-24

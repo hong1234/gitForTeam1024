@@ -3,6 +3,6 @@ namespace App\Dao;
 
 class UserDao {
     public function sayUserDao(){
-        echo "UserDao";
+        echo "UserDao2";
     }
 }

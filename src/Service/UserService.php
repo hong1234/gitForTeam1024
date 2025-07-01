@@ -3,6 +3,6 @@ namespace App\Service;
 
 class UserService {
     public function sayUserService(){
-        echo "UserServiceXX";
+        echo "UserService";
     }
 }

@@ -2,7 +2,7 @@
 namespace App\Service;
 
 class BookService {
-    public function sayBaseService(){
-        echo "BaseService";
+    public function sayBookService(){
+        echo "BookService";
     }
 }
